@@ -34,6 +34,16 @@ p span.i2{
 	text-indent: -1em;
 	padding-left: 3em;
 }
+
+p span.i4{
+	text-indent: -1em;
+	padding-left: 5em;
+}
+
+p span.i7{
+	text-indent: -1em;
+	padding-left: 8em;
+}
 /* End poetry CSS */
 
 /* Begin bridgehead CSS */
