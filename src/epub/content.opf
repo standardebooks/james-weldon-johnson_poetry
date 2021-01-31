@@ -29,43 +29,53 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Poetry</dc:title>
 		<meta property="file-as" refines="#title">Poetry</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">https://id.loc.gov/authorities/subjects/sh2007100202</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Poetry</meta>
+		<dc:description id="description">A collection of poems by James Weldon Johnson.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;This collection contains poems written by &lt;a href="https://standardebooks.org/ebooks/james-weldon-johnson"&gt;James Weldon Johnson&lt;/a&gt; from 1899 to 1922. During this period of Johnson’s life, he worked as a Broadway songwriter with his brother John Rosamund in the early 1900s, served as a United States Consul in Venezuela from 1906 to 1908 and in Nicaragua from 1909 to 1913, and was appointed at the first executive secretary of the National Association for the Advancement of Colored People (NAACP) in 1920. Johnson's work arose in the milieu of the 1920s “Harlem Renaissance,” a term which Johnson personally refused to use, favoring “the flowering of Negro literature” instead&lt;/p&gt;
+			&lt;p&gt;Perhaps among the most notable works anthologized in this collection are the lyrics of “Lift Ev’ry Voice and Sing,” a hymn originally written as a poem by Johnson in 1899. Having been dubbed “The Black National Anthem,” the hymn has taken on the significance of a rallying cry for Black Americans and is a frequent inclusion in Christian hymnals.&lt;/p&gt;
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://www.google.com/books/edition/How_the_National_Association_for_the_Adv/AAs-AQAAMAAJ</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/17884</dc:source>
+		<dc:source>https://archive.org/details/fiftyyearsother00johnrich</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/11986</dc:source>
+		<dc:source>https://archive.org/details/bookofamericanne00johnrich</dc:source>
+		<meta property="se:production-notes">The sequencing of poems in this collection generally follows Fifty Years and Other Poems, including the placement of the afterword.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Poetry</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lift_Every_Voice_and_Sing</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-weldon-johnson_poetry</meta>
 		<dc:creator id="author">James Weldon Johnson</dc:creator>
 		<meta property="file-as" refines="#author">Johnson, James Weldon</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/James_Weldon_Johnson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79133137</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Eastman Johnson</dc:contributor>
+		<meta property="file-as" refines="#artist">Johnson, Eastman</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Jonathan Eastman Johnson</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Eastman_Johnson</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n83177936</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Sankar Viswanathan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Viswanathan, Sankar</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Charles M. Bidwell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Bidwell, Charles M.</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://weijiarhymeswith.asia</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
