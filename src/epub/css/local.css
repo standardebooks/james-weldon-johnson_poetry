@@ -68,4 +68,9 @@ p span.i7{
 	text-align: justify;
 	text-indent: 0;
 }
+
+[epub|type~="z3998:poem"] [epub|type~="bridgehead"],
+[epub|type~="z3998:song"] [epub|type~="bridgehead"]{
+	text-align: justify;
+}
 /* End bridgehead CSS */
