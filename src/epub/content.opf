@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/james-weldon-johnson/poetry</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-02-07T22:17:09Z</dc:date>
+		<meta property="dcterms:modified">2021-02-07T22:17:09Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,7 +35,7 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of poems by James Weldon Johnson.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This collection contains poems written by &lt;a href="https://standardebooks.org/ebooks/james-weldon-johnson"&gt;James Weldon Johnson&lt;/a&gt; from 1899 to 1922. During this period of Johnson’s life, he worked as a Broadway songwriter with his brother John Rosamund in the early 1900s, served as a United States Consul in Venezuela from 1906 to 1908 and in Nicaragua from 1909 to 1913, and was appointed at the first executive secretary of the National Association for the Advancement of Colored People (NAACP) in 1920. Johnson’s work arose in the milieu of the 1920s “Harlem Renaissance,” a term which Johnson personally refused to use, favoring “the flowering of Negro literature” instead.&lt;/p&gt;
+			&lt;p&gt;This collection contains the poems written by &lt;a href="https://standardebooks.org/ebooks/james-weldon-johnson"&gt;James Weldon Johnson&lt;/a&gt; between 1899 and 1922. During this period of Johnson’s life, he worked as a Broadway songwriter with his brother John Rosamund in the early 1900s, served as a United States Consul in Venezuela from 1906 to 1908 and in Nicaragua from 1909 to 1913, and was appointed as the first executive secretary of the National Association for the Advancement of Colored People (NAACP) in 1920. Johnson’s work arose in the milieu of the 1920s “Harlem Renaissance,” a term which Johnson personally refused to use, favoring “the flowering of Negro literature” instead.&lt;/p&gt;
 			&lt;p&gt;Perhaps among the most notable works anthologized in this collection are the lyrics of “Lift Ev’ry Voice and Sing,” a hymn originally written as a poem by Johnson in 1899. Having been dubbed “The Black National Anthem,” the hymn has taken on the significance of a rallying cry for Black Americans and is a frequent inclusion in Christian hymnals.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
@@ -45,8 +45,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/11986</dc:source>
 		<dc:source>https://archive.org/details/bookofamericanne00johnrich</dc:source>
 		<meta property="se:production-notes">The sequencing of poems in this collection generally follows Fifty Years and Other Poems, including the placement of the afterword.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">13348</meta>
+		<meta property="se:reading-ease.flesch">83.09</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lift_Every_Voice_and_Sing</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-weldon-johnson_poetry</meta>
 		<dc:creator id="author">James Weldon Johnson</dc:creator>
@@ -83,6 +83,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
