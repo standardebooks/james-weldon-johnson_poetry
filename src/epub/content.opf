@@ -32,6 +32,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100202</meta>
 		<meta property="se:subject">Poetry</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of poems by James Weldon Johnson.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;This collection contains the poems written by &lt;a href="https://standardebooks.org/ebooks/james-weldon-johnson"&gt;James Weldon Johnson&lt;/a&gt; between 1899 and 1922. During this period of Johnson’s life, he worked as a Broadway songwriter with his brother John Rosamund in the early 1900s, served as a United States Consul in Venezuela from 1906 to 1908 and in Nicaragua from 1909 to 1913, and was appointed as the first executive secretary of the National Association for the Advancement of Colored People (NAACP) in 1920. Johnson’s work arose in the milieu of the 1920s “Harlem Renaissance,” a term which Johnson personally refused to use, favoring “the flowering of Negro literature” instead.&lt;/p&gt;
