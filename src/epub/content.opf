@@ -35,7 +35,7 @@
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of poems by James Weldon Johnson.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This collection contains the poems written by &lt;a href="https://standardebooks.org/ebooks/james-weldon-johnson"&gt;James Weldon Johnson&lt;/a&gt; between 1899 and 1922. During this period of Johnson’s life, he worked as a Broadway songwriter with his brother John Rosamund in the early 1900s, served as a United States Consul in Venezuela from 1906 to 1908 and in Nicaragua from 1909 to 1913, and was appointed as the first executive secretary of the National Association for the Advancement of Colored People (NAACP) in 1920. Johnson’s work arose in the milieu of the 1920s “Harlem Renaissance,” a term which Johnson personally refused to use, favoring “the flowering of Negro literature” instead.&lt;/p&gt;
+			&lt;p&gt;This collection contains the poems written by &lt;a href="https://standardebooks.org/ebooks/james-weldon-johnson"&gt;James Weldon Johnson&lt;/a&gt; between 1899 and 1927. During this period of Johnson’s life, he worked as a Broadway songwriter with his brother John Rosamund in the early 1900s, served as a United States Consul in Venezuela from 1906 to 1908 and in Nicaragua from 1909 to 1913, and was appointed as the first executive secretary of the National Association for the Advancement of Colored People (NAACP) in 1920. Johnson’s work arose in the milieu of the 1920s “Harlem Renaissance,” a term which Johnson personally refused to use, favoring “the flowering of Negro literature” instead.&lt;/p&gt;
 			&lt;p&gt;Perhaps among the most notable works anthologized in this collection are the lyrics of “Lift Ev’ry Voice and Sing,” a hymn originally written as a poem by Johnson in 1899. Having been dubbed “The Black National Anthem,” the hymn has taken on the significance of a rallying cry for black Americans and is a frequent inclusion in Christian hymnals.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
@@ -44,9 +44,11 @@
 		<dc:source>https://archive.org/details/fiftyyearsother00johnrich</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/11986</dc:source>
 		<dc:source>https://archive.org/details/bookofamericanne00johnrich</dc:source>
-		<meta property="se:production-notes">The sequencing of poems in this collection generally follows Fifty Years and Other Poems, including the placement of the afterword.</meta>
-		<meta property="se:word-count">13348</meta>
-		<meta property="se:reading-ease.flesch">83.09</meta>
+		<dc:source>https://docsouth.unc.edu/southlit/johnson/johnson.html</dc:source>
+		<dc:source>https://archive.org/details/godstrombonessev00johnso</dc:source>
+		<meta property="se:production-notes">The sequencing of poems in this collection generally follows Fifty Years and Other Poems, including the placement of the afterword. God’s Trombones is placed immediately after Fifty Years.</meta>
+		<meta property="se:word-count">18764</meta>
+		<meta property="se:reading-ease.flesch">83.8</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lift_Every_Voice_and_Sing</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-weldon-johnson_poetry</meta>
 		<dc:creator id="author">James Weldon Johnson</dc:creator>
@@ -73,6 +75,15 @@
 		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">Apex Data Services, Inc.</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Apex Data Services, Inc.</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">Brian Dietz</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Dietz, Brian</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">Elizabeth S. Wright</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Wright, Elizabeth S.</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://weijiarhymeswith.asia</meta>
