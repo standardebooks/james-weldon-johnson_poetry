@@ -58,6 +58,10 @@ p span.i7{
 	padding-left: 8em;
 	text-indent: -1em;
 }
+
+[epub|type~="z3998:poem"] hgroup p{
+	text-align: center;
+}
 /* End poetry CSS */
 
 /* Begin bridgehead CSS */
