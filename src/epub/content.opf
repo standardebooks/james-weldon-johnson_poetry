@@ -46,7 +46,7 @@
 		<dc:source>https://archive.org/details/godstrombonessev00johnso</dc:source>
 		<meta property="se:production-notes">The sequencing of poems in this collection generally follows Fifty Years and Other Poems, including the placement of the afterword. God’s Trombones is placed immediately after Fifty Years.</meta>
 		<meta property="se:word-count">18362</meta>
-		<meta property="se:reading-ease.flesch">83.7</meta>
+		<meta property="se:reading-ease.flesch">83.9</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lift_Every_Voice_and_Sing</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-weldon-johnson_poetry</meta>
 		<dc:creator id="author">James Weldon Johnson</dc:creator>
